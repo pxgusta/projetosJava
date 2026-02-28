@@ -12,6 +12,7 @@ public class PermissaoDirigr {
              System.out.println("Já pode dirigir!");
         }else{
             System.out.println("vai de busão ou carona");
+            
         } 
 
     }    // fim do main
